@@ -120,13 +120,6 @@ This project demonstrates how **machine learning models** and **data analysis** 
 
 ---
 
-## 🤝 Contributors
-
-* Pratik Harlikar
-* Aditya Jadhav
-
-💡 Contributions welcome!
-
 * Fork 🍴 → Improve 🔄 → Submit PR ✅
 
 ---
